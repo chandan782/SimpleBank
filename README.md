@@ -1,0 +1,1 @@
+This a Simple Bank backend project built with golang, postgres, docker.
